@@ -1,0 +1,11 @@
+Question|Option1|Option2|Option3|Option4|CorrectOptionNumber
+What is the size of int in Java?|2 bytes|4 bytes|8 bytes|16 bytes|2
+Which keyword is used to inherit a class in Java?|super|this|extends|implements|3
+Which of the following is not a Java feature?|Object-oriented|Use of pointers|Portable|Robust|2
+Which method is the entry point of a Java program?|start()|main()|run()|init()|2
+Which of these is used to handle exceptions in Java?|try-catch|goto|if-else|switch|1
+Which of these is not a primitive data type in Java?|int|float|String|boolean|3
+Which of the following is used to create an object in Java?|malloc|alloc|new|create|3
+Which package contains the Scanner class?|java.io|java.util|java.lang|java.text|2
+What is the default value of a boolean variable in Java?|true|false|null|0|2
+Which of these is a wrapper class in Java?|int|Integer|void|char|2
